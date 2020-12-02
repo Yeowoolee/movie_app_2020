@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Yeowoolee/movie_app_2020/static/css/main.d657ebec.chunk.css",
+    "main.js": "/Yeowoolee/movie_app_2020/static/js/main.bd4ccd13.chunk.js",
+    "main.js.map": "/Yeowoolee/movie_app_2020/static/js/main.bd4ccd13.chunk.js.map",
+    "runtime-main.js": "/Yeowoolee/movie_app_2020/static/js/runtime-main.493031ab.js",
+    "runtime-main.js.map": "/Yeowoolee/movie_app_2020/static/js/runtime-main.493031ab.js.map",
+    "static/js/2.d848e12a.chunk.js": "/Yeowoolee/movie_app_2020/static/js/2.d848e12a.chunk.js",
+    "static/js/2.d848e12a.chunk.js.map": "/Yeowoolee/movie_app_2020/static/js/2.d848e12a.chunk.js.map",
+    "index.html": "/Yeowoolee/movie_app_2020/index.html",
+    "static/css/main.d657ebec.chunk.css.map": "/Yeowoolee/movie_app_2020/static/css/main.d657ebec.chunk.css.map",
+    "static/js/2.d848e12a.chunk.js.LICENSE.txt": "/Yeowoolee/movie_app_2020/static/js/2.d848e12a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.493031ab.js",
+    "static/js/2.d848e12a.chunk.js",
+    "static/css/main.d657ebec.chunk.css",
+    "static/js/main.bd4ccd13.chunk.js"
+  ]
+}
